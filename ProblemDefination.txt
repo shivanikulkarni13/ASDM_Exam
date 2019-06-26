@@ -1,0 +1,71 @@
+git commit -m "first commit"
+git remote add origin https://github.com/shivanikulkarni13/ASDM_Exam.git
+git push -u origin master
+
+
+
+
+
+
+Probel Defination:
+
+Rockwell Automation Inc. is the industry spread all over the word and its main branch in London.
+The employees working in this company are all over the world and now growth of company increases 
+day by day so their personal cloud is not sufficent to stored data requird for employees. so now
+the need to use Amazon open web services.
+
+In this case study.
+we have to create one microservice for employees so they can access their information from any where
+
+
+Data stored in services like:
+Emp_id,Emp_name,Designation,Working
+ 
+
+Functional Requirement
+
+Login
+Accessing Information
+See Status of projects
+Deal with another Employees
+Add information related to projects
+
+
+Non-Functional Requirement
+
+Usability
+Scalability
+Portability
+Data Security
+User Verification
+Ease Of Accessing Information
+Rhobustness
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
